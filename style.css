@@ -109,4 +109,11 @@ nav{
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
 }
-
+.bg-image {
+    padding: 45em;
+    background-image: url(images/MainBackgorundCampfire.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    
+}
