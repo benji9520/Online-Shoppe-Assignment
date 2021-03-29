@@ -125,4 +125,5 @@ nav{
     text-align: center;
     padding-bottom: 400px;
     color: rgb(245, 238, 228);
+    overflow-x: hidden;
 }
