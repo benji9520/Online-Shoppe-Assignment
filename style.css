@@ -111,7 +111,6 @@ nav{
 }
 .bg-image {
     padding: 30em;
-    max-width: 768px;
     background-image: url(images/MainBackgorundCampfire.jpg);
     background-size: cover;
     background-position: center;
@@ -120,6 +119,7 @@ nav{
 
 .bg-image p{
     font: italic bold;
+    max-width: 1024px;
     font-size: 30px;
     font-family: cursive;
     text-align: center;
